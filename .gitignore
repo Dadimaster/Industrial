@@ -1,0 +1,25 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+
+# === Virtual environment ===
+.venv/
+venv/
+env/
+
+# === PyCharm / IDE ===
+.idea/
+*.iml
+
+# === OS ===
+.DS_Store
+Thumbs.db
+
+# === Coverage / test ===
+.coverage
+htmlcov/
+.pytest_cache/
+
+# === Logs ===
+*.log
